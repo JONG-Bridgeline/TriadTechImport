@@ -1,0 +1,220 @@
+category_id	category_name	parent_category_id	sort_order	is_active	category_url	include_in_menu
+1	Root	0	0	1	/	1
+40	Triad	1	1	1	/catalog/category/view/s/triad/id/40/	1
+41	"Fluid Connectors"	40	1	1	/fluid-connectors.html	1
+42	"Hose and Fitting Products"	41	1	1	/fluid-connectors/hose-and-fitting-products.html	1
+43	"Hydraulic Hose"	42	1	1	/fluid-connectors/hose-and-fitting-products/hydraulic-hose.html	1
+299	"Thermoplastic Hydraulic Hoses"	43	1	1	/fluid-connectors/hose-and-fitting-products/hydraulic-hose/thermoplastic-hydraulic-hoses.html	1
+300	"Rubber Hydraulic Hoses"	43	2	1	/fluid-connectors/hose-and-fitting-products/hydraulic-hose/rubber-hydraulic-hoses.html	1
+44	"Crimp Hose Fittings"	42	2	1	/fluid-connectors/hose-and-fitting-products/crimp-hose-fittings.html	1
+47	"Hose Assembly Equipment"	42	9	1	/fluid-connectors/hose-and-fitting-products/hose-assembly-equipment.html	1
+187	"Equipment Accessories"	47	1	1	/fluid-connectors/hose-and-fitting-products/hose-assembly-equipment/equipment-accessories.html	1
+169	"Industrial Hose"	42	3	1	/fluid-connectors/hose-and-fitting-products/industrial-hose.html	1
+170	"Water Hose"	169	1	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/water-hose.html	1
+171	"Petroleum Hose"	169	2	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/petroleum-hose.html	1
+172	"Welding Hose"	169	3	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/welding-hose.html	1
+173	"Steam Hose"	169	4	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/steam-hose.html	1
+174	"Industrial Hose Crimp Equipment"	169	5	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/industrial-hose-crimp-equipment.html	1
+175	"PVC Hose"	169	6	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/pvc-hose.html	1
+176	"Material Handling Hose"	169	7	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/material-handling-hose.html	1
+178	"Food and Beverage Hose"	169	8	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/food-and-beverage-hose.html	1
+179	"Specialty Hose"	169	9	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/specialty-hose.html	1
+180	"Chemical Hose"	169	10	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/chemical-hose.html	1
+181	"Oil Field Hose"	169	11	1	/fluid-connectors/hose-and-fitting-products/industrial-hose/oil-field-hose.html	1
+182	"Transportation Hose"	42	5	1	/fluid-connectors/hose-and-fitting-products/transportation-hose.html	1
+183	"Air Conditioning Hose"	42	6	1	/fluid-connectors/hose-and-fitting-products/air-conditioning-hose.html	1
+184	"Marine Hose"	42	7	1	/fluid-connectors/hose-and-fitting-products/marine-hose.html	1
+185	"Suction and Return Hose"	42	8	1	/fluid-connectors/hose-and-fitting-products/suction-and-return-hose.html	1
+188	"Field Attachable Hose Fittings"	42	10	1	/fluid-connectors/hose-and-fitting-products/field-attachable-hose-fittings.html	1
+318	"PTFE Hose"	42	11	1	/fluid-connectors/hose-and-fitting-products/ptfe-hose.html	1
+324	"Plastic Hose Fittings"	42	12	1	/fluid-connectors/hose-and-fitting-products/plastic-hose-fittings.html	1
+337	"Multi-Purpose & Air Hoses"	42	4	1	/fluid-connectors/hose-and-fitting-products/multi-purpose-air-hoses.html	1
+45	"Multipurpose Hose"	337	2	1	/fluid-connectors/hose-and-fitting-products/multi-purpose-air-hoses/multipurpose-hose.html	1
+168	"Air Hose"	337	1	1	/fluid-connectors/hose-and-fitting-products/multi-purpose-air-hoses/air-hose.html	1
+48	"Tube Fittings"	41	2	1	/fluid-connectors/tube-fittings.html	1
+191	"Pipe Fittings and Port Adapters"	48	2	1	/fluid-connectors/tube-fittings/pipe-fittings-and-port-adapters.html	1
+192	"Ferulok Flareless Tube Fittings"	48	3	1	/fluid-connectors/tube-fittings/ferulok-flareless-tube-fittings.html	1
+193	"Diagnostic Fittings and Adapters"	48	4	1	/fluid-connectors/tube-fittings/diagnostic-fittings-and-adapters.html	1
+194	"Seal-Lok Tube Fittings and Adapters"	48	5	1	/fluid-connectors/tube-fittings/seal-lok-tube-fittings-and-adapters.html	1
+195	"Conversion Adapters"	48	6	1	/fluid-connectors/tube-fittings/conversion-adapters.html	1
+196	"Dual Seal Subsea Flange Adapters"	48	7	1	/fluid-connectors/tube-fittings/dual-seal-subsea-flange-adapters.html	1
+197	"Tube Fitting Equipment and Tooling"	48	8	1	/fluid-connectors/tube-fittings/tube-fitting-equipment-and-tooling.html	1
+198	"Flange Adapters"	48	9	1	/fluid-connectors/tube-fittings/flange-adapters.html	1
+199	"Intrulok Brass Flareless Bite Type Tube Fittings"	48	10	1	/fluid-connectors/tube-fittings/intrulok-brass-flareless-bite-type-tube-fittings.html	1
+200	"Hydraulic BSP Adapters"	48	11	1	/fluid-connectors/tube-fittings/hydraulic-bsp-adapters.html	1
+201	"37° Triple-Lok Tube Fittings and Adapters"	48	1	1	/fluid-connectors/tube-fittings/37-triple-lok-tube-fittings-and-adapters.html	1
+325	"EO/EO2 Tube Fittings and Adapters"	48	12	1	/fluid-connectors/tube-fittings/eo-eo2-tube-fittings-and-adapters.html	1
+50	"Quick Couplings"	41	3	1	/fluid-connectors/quick-couplings.html	1
+51	"Hydraulic Quick Couplings"	50	1	1	/fluid-connectors/quick-couplings/hydraulic-quick-couplings.html	1
+202	"Pneumatic Quick Couplings"	50	2	1	/fluid-connectors/quick-couplings/pneumatic-quick-couplings.html	1
+203	"Check Valves"	50	3	1	/fluid-connectors/quick-couplings/check-valves.html	1
+204	"Test Port and Diagnostic Couplings"	50	4	1	/fluid-connectors/quick-couplings/test-port-and-diagnostic-couplings.html	1
+205	"Quick Coupling Repair Kit"	50	5	1	/fluid-connectors/quick-couplings/quick-coupling-repair-kit.html	1
+206	"Instrumentation Couplings"	50	6	1	/fluid-connectors/quick-couplings/instrumentation-couplings.html	1
+207	"Pressure Relief Valves"	50	7	1	/fluid-connectors/quick-couplings/pressure-relief-valves.html	1
+208	"Diagnostics and Testing Equipment"	50	8	1	/fluid-connectors/quick-couplings/diagnostics-and-testing-equipment.html	1
+209	"Thermoplastic Quick Couplings"	50	9	1	/fluid-connectors/quick-couplings/thermoplastic-quick-couplings.html	1
+212	Tubing	41	4	1	/fluid-connectors/tubing.html	1
+213	"PTFE Tubing"	212	1	1	/fluid-connectors/tubing/ptfe-tubing.html	1
+214	"Polyethylene Tubing"	212	2	1	/fluid-connectors/tubing/polyethylene-tubing.html	1
+215	"Heat Trace Tubing"	212	3	1	/fluid-connectors/tubing/heat-trace-tubing.html	1
+216	"Fluoropolymer Tubing"	212	4	1	/fluid-connectors/tubing/fluoropolymer-tubing.html	1
+217	"Plastic Tubing"	212	5	1	/fluid-connectors/tubing/plastic-tubing.html	1
+218	"Copper Tubing"	212	6	1	/fluid-connectors/tubing/copper-tubing.html	1
+219	"Heat Shrink Tubing"	212	7	1	/fluid-connectors/tubing/heat-shrink-tubing.html	1
+222	"Pneumatic and Brass Fittings"	41	5	1	/fluid-connectors/pneumatic-and-brass-fittings.html	1
+221	"Refrigeration Valves"	222	12	1	/fluid-connectors/pneumatic-and-brass-fittings/refrigeration-valves.html	1
+223	"Field Attachable Air Brake Hose Fittings"	222	1	1	/fluid-connectors/pneumatic-and-brass-fittings/field-attachable-air-brake-hose-fittings.html	1
+224	"Blow Gun"	222	2	1	/fluid-connectors/pneumatic-and-brass-fittings/blow-gun.html	1
+225	"Poly-Tite Fittings"	222	3	1	/fluid-connectors/pneumatic-and-brass-fittings/poly-tite-fittings.html	1
+226	"Standard Compression Fitting"	222	4	1	/fluid-connectors/pneumatic-and-brass-fittings/standard-compression-fitting.html	1
+227	"Compress-Align Fitting"	222	5	1	/fluid-connectors/pneumatic-and-brass-fittings/compress-align-fitting.html	1
+228	"Barbed Fittings"	222	6	1	/fluid-connectors/pneumatic-and-brass-fittings/barbed-fittings.html	1
+229	"Dubl-Barb Hose Fittings"	228	1	1	/fluid-connectors/pneumatic-and-brass-fittings/barbed-fittings/dubl-barb-hose-fittings.html	1
+230	"DOT Approved Air Brake Tube Fittings"	222	7	1	/fluid-connectors/pneumatic-and-brass-fittings/dot-approved-air-brake-tube-fittings.html	1
+231	"Nylon Tube Air (NTA)"	230	1	1	/fluid-connectors/pneumatic-and-brass-fittings/dot-approved-air-brake-tube-fittings/nylon-tube-air-nta.html	1
+232	"PTC Series Push to Connect DOT Air Brake Tube Fittings"	230	2	1	/fluid-connectors/pneumatic-and-brass-fittings/dot-approved-air-brake-tube-fittings/ptc-series-push-to-connect-dot-air-brake-tube-fittings.html	1
+233	"Pneumatic Push-to-Connect Fittings"	222	8	1	/fluid-connectors/pneumatic-and-brass-fittings/pneumatic-push-to-connect-fittings.html	1
+234	"Composite Fittings"	233	1	1	/fluid-connectors/pneumatic-and-brass-fittings/pneumatic-push-to-connect-fittings/composite-fittings.html	1
+235	"Transmission Fittings"	222	9	1	/fluid-connectors/pneumatic-and-brass-fittings/transmission-fittings.html	1
+236	"Fast-Tite Fittings"	222	10	1	/fluid-connectors/pneumatic-and-brass-fittings/fast-tite-fittings.html	1
+237	"Brass Pipe Fittings"	222	11	1	/fluid-connectors/pneumatic-and-brass-fittings/brass-pipe-fittings.html	1
+319	"True Seal Thermoplastic Tube Fittings"	222	13	1	/fluid-connectors/pneumatic-and-brass-fittings/true-seal-thermoplastic-tube-fittings.html	1
+326	"Pneumatic Flow Control"	222	14	1	/fluid-connectors/pneumatic-and-brass-fittings/pneumatic-flow-control.html	1
+353	"Liquifit Fittings"	222	15	1	/fluid-connectors/pneumatic-and-brass-fittings/liquifit-fittings.html	1
+450	"Garden Hose Fittings"	222	16	1	/fluid-connectors/pneumatic-and-brass-fittings/garden-hose-fittings.html	1
+238	"Ball Valves"	41	7	1	/fluid-connectors/ball-valves.html	1
+239	"Carbon Steel Ball Valve"	238	1	1	/fluid-connectors/ball-valves/carbon-steel-ball-valve.html	1
+240	"Stainless Steel Ball Valve"	238	2	1	/fluid-connectors/ball-valves/stainless-steel-ball-valve.html	1
+241	"Brass Ball Valve"	238	3	1	/fluid-connectors/ball-valves/brass-ball-valve.html	1
+242	"Swivel Joints"	41	8	1	/fluid-connectors/swivel-joints.html	1
+327	"Fluid Connector Accessories"	41	9	1	/fluid-connectors/fluid-connector-accessories.html	1
+446	Transair	41	6	1	/fluid-connectors/transair.html	1
+447	"Transair Piping"	446	1	1	/fluid-connectors/transair/transair-piping.html	1
+448	"Transair Fittings"	446	2	1	/fluid-connectors/transair/transair-fittings.html	1
+80	Pneumatic	40	3	1	/pneumatic.html	1
+55	"Air Preperation and Dryers"	80	1	1	/pneumatic/air-preperation-and-dryers.html	1
+70	"Inline Directional Control Valves"	80	2	1	/pneumatic/inline-directional-control-valves.html	1
+81	Hydraulic	40	5	1	/hydraulic.html	1
+95	Manifold	81	2	1	/hydraulic/manifold.html	1
+83	"Cover Plate"	95	8	1	/hydraulic/manifold/cover-plate.html	1
+84	"Valve Adaptor"	95	2	1	/hydraulic/manifold/valve-adaptor.html	1
+85	Subplate	95	7	1	/hydraulic/manifold/subplate.html	1
+86	"Tapping Plate"	95	6	1	/hydraulic/manifold/tapping-plate.html	1
+87	"Header Junction"	95	5	1	/hydraulic/manifold/header-junction.html	1
+88	"Din Valve"	95	4	1	/hydraulic/manifold/din-valve.html	1
+97	"Mounting Flange"	95	3	1	/hydraulic/manifold/mounting-flange.html	1
+398	Manifold	95	1	1	/hydraulic/manifold/manifold.html	1
+102	"Industrial Tools and Workholding"	81	1	1	/hydraulic/industrial-tools-and-workholding.html	1
+103	"Industrial Tools"	102	1	1	/hydraulic/industrial-tools-and-workholding/industrial-tools.html	1
+99	"Hydraulic Pump"	103	2	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump.html	1
+513	"Manual Pumps"	99	1	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/manual-pumps.html	1
+514	"Cordless Pumps"	99	2	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/cordless-pumps.html	1
+515	"Electric Pumps"	99	3	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/electric-pumps.html	1
+516	"Air Pumps"	99	4	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/air-pumps.html	1
+517	"Gas Pumps"	99	5	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/gas-pumps.html	1
+518	"Controlled Lifting Pumps"	99	6	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/controlled-lifting-pumps.html	1
+519	"Torque Wrench Pumps"	99	7	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/torque-wrench-pumps.html	1
+520	"Tensioner Pumps"	99	8	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/tensioner-pumps.html	1
+521	"Post Tensioning Pumps"	99	9	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-pump/post-tensioning-pumps.html	1
+101	"Hydraulic Press"	103	4	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-press.html	1
+106	"Hydraulic Tools"	103	1	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools.html	1
+107	"Torque Wrench"	106	5	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools/torque-wrench.html	1
+108	"Flange Alignment Tools"	106	6	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools/flange-alignment-tools.html	1
+109	"Mechanical Tools"	106	3	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools/mechanical-tools.html	1
+110	"Bolting Tools"	106	4	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools/bolting-tools.html	1
+112	Cutter	106	2	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools/cutter.html	1
+113	Puller	106	1	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/hydraulic-tools/puller.html	1
+111	"Cribbing Block"	103	10	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/cribbing-block.html	1
+114	Coupler	103	5	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/coupler.html	1
+115	"Heavy Lifting Technology"	103	6	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/heavy-lifting-technology.html	1
+116	Jack	103	9	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/jack.html	1
+117	Turntable	103	8	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/turntable.html	1
+119	"Load Skate"	103	7	1	/hydraulic/industrial-tools-and-workholding/industrial-tools/load-skate.html	1
+104	"Workholding Tools"	102	2	1	/hydraulic/industrial-tools-and-workholding/workholding-tools.html	1
+105	"Workholding Clamp"	104	1	1	/hydraulic/industrial-tools-and-workholding/workholding-tools/workholding-clamp.html	1
+503	Accessories	104	2	1	/hydraulic/industrial-tools-and-workholding/workholding-tools/accessories.html	1
+504	Pumps	104	3	1	/hydraulic/industrial-tools-and-workholding/workholding-tools/pumps.html	1
+329	"Hydraulic Filters"	81	4	1	/hydraulic/hydraulic-filters.html	1
+330	"Drive Couplings"	81	5	1	/hydraulic/drive-couplings.html	1
+399	Valves	81	3	1	/hydraulic/valves.html	1
+248	Automation	40	4	1	/automation.html	1
+62	"Motion Control"	248	4	1	/automation/motion-control.html	1
+63	"Rotary Servo and Stepper Motors"	62	1	1	/automation/motion-control/rotary-servo-and-stepper-motors.html	1
+64	"Servo and Stepper Drives"	62	2	1	/automation/motion-control/servo-and-stepper-drives.html	1
+65	"Gearheads and Reducers"	62	3	1	/automation/motion-control/gearheads-and-reducers.html	1
+66	"HMI and Touchscreens"	62	4	1	/automation/motion-control/hmi-and-touchscreens.html	1
+67	"Linear Motors"	62	5	1	/automation/motion-control/linear-motors.html	1
+68	"Cylinders and Actuators"	62	6	1	/automation/motion-control/cylinders-and-actuators.html	1
+69	"Motion Controllers"	62	7	1	/automation/motion-control/motion-controllers.html	1
+439	Accessories	62	8	1	/automation/motion-control/accessories.html	1
+74	"Automation Sensors"	248	5	1	/automation/automation-sensors.html	1
+75	"Photoelectric Sensors"	74	2	1	/automation/automation-sensors/photoelectric-sensors.html	1
+501	"Laser Sensors"	75	6	1	/automation/automation-sensors/photoelectric-sensors/laser-sensors.html	1
+508	"Miniature Photoelectrics Sensors"	75	1	1	/automation/automation-sensors/photoelectric-sensors/miniature-photoelectrics-sensors.html	1
+509	"Small Photoelectric Sensors"	75	2	1	/automation/automation-sensors/photoelectric-sensors/small-photoelectric-sensors.html	1
+510	"Compact Photoelectric Sensors"	75	3	1	/automation/automation-sensors/photoelectric-sensors/compact-photoelectric-sensors.html	1
+511	"Multitask Photoelectric Sensors"	75	4	1	/automation/automation-sensors/photoelectric-sensors/multitask-photoelectric-sensors.html	1
+512	"Hybrid Photoelectric Sensors"	75	5	1	/automation/automation-sensors/photoelectric-sensors/hybrid-photoelectric-sensors.html	1
+251	"Connecting Cables"	74	9	1	/automation/automation-sensors/connecting-cables.html	1
+253	Scanners	74	5	1	/automation/sensors/scanners.html	1
+254	"Fixed Mount Barcode Scanners"	253	1	1	/automation/sensors/scanners/fixed-mount-barcode-scanners.html	1
+256	"Mobile Hand Held Scanners"	253	3	1	/automation/sensors/scanners/mobile-hand-held-scanners.html	1
+257	Encoders	74	3	1	/automation/automation-sensors/encoders.html	1
+258	"Incremental Encoders"	257	1	1	/automation/automation-sensors/encoders/incremental-encoders.html	1
+259	"Light Curtains"	74	7	1	/automation/sensors/light-curtains.html	1
+262	"Proximity Sensors"	74	1	1	/automation/automation-sensors/proximity-sensors.html	1
+79	"Inductive Proximity Sensors"	262	1	1	/automation/automation-sensors/proximity-sensors/inductive-proximity-sensors.html	1
+506	"Magnetic Sensor"	262	2	1	/automation/automation-sensors/proximity-sensors/magnetic-sensor.html	1
+507	"Capacitive Sensor"	262	3	1	/automation/automation-sensors/proximity-sensors/capacitive-sensor.html	1
+265	Ultrasonic	74	4	1	/automation/automation-sensors/ultrasonic.html	1
+266	"Color Sensors"	74	5	1	/automation/automation-sensors/color-sensors.html	1
+267	"Area Sensors"	74	6	1	/automation/automation-sensors/area-sensors.html	1
+268	"Magnetic Cylinder Sensors"	74	7	1	/automation/automation-sensors/magnetic-cylinder-sensors.html	1
+269	"Contrast Sensors"	74	8	1	/automation/automation-sensors/contrast-sensors.html	1
+270	"Distance Sensors"	74	10	1	/automation/automation-sensors/distance-sensors.html	1
+271	"Linear Position"	74	11	1	/automation/automation-sensors/linear-position.html	1
+272	"Array Sensors"	74	12	1	/automation/automation-sensors/array-sensors.html	1
+273	"Automation Light Grid"	74	13	1	/automation/automation-sensors/automation-light-grid.html	1
+381	Annunciation	248	1	1	/automation/annunciation.html	1
+384	Audible	381	1	1	/automation/annunciation/audible.html	1
+391	"Signal Tower"	381	2	1	/automation/annunciation/signal-tower.html	1
+392	"Process Optimization Systems"	381	3	1	/automation/annunciation/process-optimization-systems.html	1
+393	Optical	381	4	1	/automation/annunciation/optical.html	1
+394	Accessories	381	5	1	/automation/annunciation/accessories.html	1
+395	Combination	381	6	1	/automation/annunciation/combination.html	1
+401	"Power and Electrical"	248	2	1	/automation/power-and-electrical.html	1
+402	"Power Supplies"	401	1	1	/automation/power-and-electrical/power-supplies.html	1
+499	"Industrial IOT"	248	3	1	/automation/industrial-iot.html	1
+302	"Options and Accessories"	40	7	1	/options-and-accessories.html	1
+314	Accessories	302	1	1	/options-and-accessories/accessories.html	1
+315	"Hose and Tube Clamps"	302	2	1	/options-and-accessories/hose-and-tube-clamps.html	1
+316	"Hose and Cord Reels"	302	3	1	/options-and-accessories/hose-and-cord-reels.html	1
+340	"Cord Reels"	316	1	1	/options-and-accessories/hose-and-cord-reels/cord-reels.html	1
+341	"Reel Accessories"	316	2	1	/options-and-accessories/hose-and-cord-reels/reel-accessories.html	1
+342	"Welding Reels"	316	3	1	/options-and-accessories/hose-and-cord-reels/welding-reels.html	1
+343	"Tool Balancers"	316	4	1	/options-and-accessories/hose-and-cord-reels/tool-balancers.html	1
+344	"Hoses for Reels"	316	5	1	/options-and-accessories/hose-and-cord-reels/hoses-for-reels.html	1
+345	"Grounding Reels"	316	6	1	/options-and-accessories/hose-and-cord-reels/grounding-reels.html	1
+444	"Hose Reels"	316	7	1	/options-and-accessories/hose-and-cord-reels/hose-reels.html	1
+347	"O-Rings and Other Seals"	302	4	1	/options-and-accessories/o-rings-and-other-seals.html	1
+357	"Storage Cabinets and Bins"	302	5	1	/options-and-accessories/storage-cabinets-and-bins.html	1
+482	"Clamps And Accessories"	302	6	1	/options-and-accessories/clamps-and-accessories.html	1
+483	Clamps	482	1	1	/options-and-accessories/clamps-and-accessories/clamps.html	1
+484	"Clamp Standard"	483	1	1	/options-and-accessories/clamps-and-accessories/clamps/clamp-standard.html	1
+485	"Clamp Twin"	483	2	1	/options-and-accessories/clamps-and-accessories/clamps/clamp-twin.html	1
+486	"Hex Bolts"	482	2	1	/options-and-accessories/clamps-and-accessories/hex-bolts.html	1
+487	"Cover Plate"	482	3	1	/options-and-accessories/clamps-and-accessories/cover-plate.html	1
+488	"Weld Plate"	482	4	1	/options-and-accessories/clamps-and-accessories/weld-plate.html	1
+321	Lubrication	40	2	1	/lubrication.html	1
+322	"Grease Pumps"	321	1	1	/lubrication/grease-pumps.html	1
+332	"Grease Gun"	321	2	1	/lubrication/grease-gun.html	1
+333	"Oil Gun"	321	3	1	/lubrication/oil-gun.html	1
+461	"Hydraulic Oil"	321	4	1	/lubrication/hydraulic-oil.html	1
+379	Clearance	40	8	1	/clearance.html	1
+492	Instrumentation	40	6	1	/instrumentation.html	1
+493	Pressure	492	1	1	/instrumentation/pressure.html	1
+494	"Pressure Gauges"	493	1	1	/instrumentation/pressure/pressure-gauges.html	1
+495	"Dial Indicating Pressure Gauge"	494	1	1	/instrumentation/pressure/pressure-gauges/dial-indicating-pressure-gauge.html	1
+496	"Pressure Transducers & Transmitters"	493	2	1	/instrumentation/pressure/pressure-transducers-transmitters.html	1
+497	"Industrial Pressure Transducers & Transmitters"	496	1	1	/instrumentation/pressure/pressure-transducers-transmitters/industrial-pressure-transducers-transmitters.html	1
